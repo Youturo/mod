@@ -1,0 +1,9 @@
+{
+  "key.guithemes.cycle": "Switch interface theme",
+  "category.guithemes": "Interface Themes",
+  "guithemes.chip": "Theme: %s",
+  "guithemes.theme.dark": "Dark",
+  "guithemes.theme.cat": "Cat",
+  "guithemes.theme.neon": "Neon",
+  "guithemes.theme.off": "Vanilla"
+}

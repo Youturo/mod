@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "guithemes",
+  "version": "${version}",
+  "name": "GUI Themes",
+  "description": "Три темы интерфейса: тёмная, кошачья и неоновая. Смена темы: кнопка в углу меню или клавиша F6.",
+  "authors": ["Me"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["ru.guithemes.GuiThemesClient"]
+  },
+  "mixins": ["guithemes.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "key.guithemes.cycle": "Сменить тему интерфейса",
+  "category.guithemes": "Темы интерфейса",
+  "guithemes.chip": "Тема: %s",
+  "guithemes.theme.dark": "Тёмная",
+  "guithemes.theme.cat": "Кошачья",
+  "guithemes.theme.neon": "Неон",
+  "guithemes.theme.off": "Обычная"
+}
